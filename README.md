@@ -1,0 +1,2 @@
+# envyscript
+prototype scripting language
