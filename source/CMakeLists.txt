@@ -1,0 +1,1 @@
+add_library(coglib "vm.c" "disassembly.c" "assembler.c" "instruction.c" "value.c" "array.c" "map.c" "lex.c" "compiler.c" "string.c")
